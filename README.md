@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heba Mahammed</h1>
+<h1 align="center">Hi 👋, I'm Hiba Khalid</h1>
 <h3 align="center">Interested in Technology and social impact</h3>
 
 
